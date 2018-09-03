@@ -1,5 +1,5 @@
-# Sketch : point-around-circle
-Creates a vector around a given circle. 
+# Sketch : point-on-circle
+Creates a vector on a given circle. 
 
 ## pX(cX, radius, angle) and pY(cY, radius, angle)
 *cX* and *cY* define the position of the circle at init.
