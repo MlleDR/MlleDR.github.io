@@ -1,4 +1,4 @@
-# Sketch
+# Sketch : point-around-circle
 Creates a vector around a given circle. 
 
 ## pX(cX, radius, angle) and pY(cY, radius, angle)
