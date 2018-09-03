@@ -7,7 +7,6 @@ function setup() {
   createCanvas(640, 640);
   background(0);
   S_Store[0] = new SPINNER(width / 2, height / 2);
-
 }
 
 function draw() {
