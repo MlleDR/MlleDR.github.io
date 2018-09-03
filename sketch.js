@@ -1,4 +1,4 @@
-// POINT-AROUND-CIRCLE | 03.09.18
+// POINT-ON-CIRCLE | 03.09.18
 
 var S_Store = [];
 
