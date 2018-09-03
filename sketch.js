@@ -1,5 +1,4 @@
-// 03.09.18 : first commit
-// to do : update function to add animation
+// POINT-AROUND-CIRCLE | 03.09.18
 
 var S_Store = [];
 
