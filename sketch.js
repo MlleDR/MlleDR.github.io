@@ -49,9 +49,9 @@ function SPINNER(cX, cY, angle) {
 
 // cX and cY are the starting points (ex: center of canvas)
 function pX(cX, radius, angle) {
-  return cX + radius * Math.sin(angle);
+  return cX + radius * Math.sin(radians(angle));
 }
 
 function pY(cY, radius, angle) {
-  return cY + radius * Math.cos(angle);
+  return cY + radius * Math.cos(radians(angle));
 }
