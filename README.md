@@ -1,4 +1,4 @@
-# Sketch : point-on-circle
+# Snippet : point-on-circle
 Creates a vector on a given circle. 
 
 ## pX(cX, radius, angle) and pY(cY, radius, angle)
